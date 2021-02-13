@@ -3,3 +3,7 @@ this is the first file
 This is updated now 
 i have inserted logic
 for login
+
+
+
+now i have inserted code for friend list
